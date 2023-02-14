@@ -1,4 +1,5 @@
 # Embeddings-for-anime-characters
+最近比较忙，期末考加搬家，过一阵子应该会更新。
 主要分享一些自制的动画角色基于Textual inversion（文本逆转） 的Embedding，做着玩玩的，仅供娱乐。
 主要为对于e6e8e1fc的Embedding，在其它模型上很难正常工作。
 如果你使用的是Master Webui，将 .py文件粘贴于embedding文件夹即可，无需任何刷新或重启。
